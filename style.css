@@ -54,3 +54,16 @@ h5 {
     font-size: 20px;
     font-family: Robobto;
 }
+.enviroment_li{
+    margin-top: 13px;
+}
+.enviroment_li h4{
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+.enviroment_li img {
+    border-radius: 25px;
+}
+.enviroment_li p {
+    margin-top: 10px;
+}
